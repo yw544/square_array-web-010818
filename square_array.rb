@@ -3,8 +3,8 @@ def square_array(array)
   array = [1,2,3]
 array.each do |number|
   new_num = number*number
-  new_arrary.push(new_num)
-  new_arrary
+  new_array.push(new_num)
+  new_array
 end
-return new_arrary
+return new_array
 end
