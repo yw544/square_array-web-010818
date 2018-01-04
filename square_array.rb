@@ -4,3 +4,4 @@ def square_array(array)
 array.each do |number|
   put number*number
 end
+end
